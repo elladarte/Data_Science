@@ -11,6 +11,6 @@ Link para o dataset no kaggle:
 
 https://www.kaggle.com/orgesleka/used-cars-database
 
-O conjunto dedados foi retirado do kaggle e contém detalhes dos carros usados na Alemanha que estão à venda no ebay
+O conjunto de dados foi retirado do kaggle e contém detalhes dos carros usados na Alemanha que estão à venda no ebay
 
 No projeto foi realizado 4 analises, ordenados pelo nivel de dificuldade, com o aprofundamento das analises com o usos de metodos e funções mais avançadas afim de visualizar a distribuição de dados mais detalhadas e tirar conclusões.
