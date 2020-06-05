@@ -19,3 +19,9 @@ além de conhecimentos em SQL e visualização de dados.
 
 ## Projetos:
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis.
+
+### Analises Descritivas
+### Analise Diagnosticas
+### Analises Preditivas
+### Analises Prescritivas
+### Analises Completas
